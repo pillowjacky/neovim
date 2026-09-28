@@ -1,0 +1,10 @@
+[tools]
+delta = "latest"
+lazygit = "latest"
+neovim = "latest"
+prettier = "latest"
+ruff = "latest"
+shellcheck = "latest"
+shfmt = "latest"
+stylua = "latest"
+tree-sitter = "latest"
