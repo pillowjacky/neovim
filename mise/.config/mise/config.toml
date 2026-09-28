@@ -1,0 +1,5 @@
+[tools]
+delta = "latest"
+lazygit = "latest"
+neovim = "latest"
+tree-sitter = "latest"

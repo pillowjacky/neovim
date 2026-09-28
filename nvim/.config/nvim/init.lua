@@ -1,0 +1,5 @@
+require("config.options")
+require("config.clipboard")
+require("config.keymaps")
+require("config.filetype")
+require("config.lazy")

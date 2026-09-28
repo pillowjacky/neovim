@@ -1,0 +1,10 @@
+[include]
+	path = ~/.config/delta/themes/catppuccin/catppuccin.gitconfig
+
+[core]
+	pager = delta
+[delta]
+	features = catppuccin-latte
+	line-numbers = true
+	tabs = 4
+	true-color = always
